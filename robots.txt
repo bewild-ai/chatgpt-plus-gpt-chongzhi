@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bewild-ai.github.io/chatgpt-plus-gpt-chongzhi/sitemap.xml
